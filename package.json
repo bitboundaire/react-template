@@ -1,12 +1,12 @@
 {
-  "name": "clean-react-template",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "author": "César Felipe <cesar.felp982@gmail.com>",
-  "homepage": "https://github.com/mrdibre/clean-react",
+  "author": "César Felipe <cesar.felipe@bitboundaire.com>",
+  "homepage": "https://github.com/bitboundaire/react-template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrdibre/clean-react"
+    "url": "https://github.com/bitboundaire/react-template"
   },
   "scripts": {
     "start": "react-app-rewired start",
